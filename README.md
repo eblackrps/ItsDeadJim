@@ -243,4 +243,4 @@ It is a modeling and risk-conversation tool.
 
 ## License
 
-Internal / project-defined. Add license text here if making public.
+Free use. 

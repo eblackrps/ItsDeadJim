@@ -228,13 +228,6 @@ assets\itsdeadjim.ico
 
 ---
 
-## Code Signing (Optional)
-
-Self-signing can reduce Windows warnings **only if the certificate is trusted** on the target system (for example via internal IT distribution).
-
-Self-signing does **not** grant public SmartScreen reputation.
-
----
 
 ## Safety and Scope
 
